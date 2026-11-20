@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env/
+
+image_dataset/
+_trashnet_extract/
+trashnet_dataset_resized.zip
+prediction_history.csv
+
+.streamlit/

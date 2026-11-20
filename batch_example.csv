@@ -1,0 +1,8 @@
+biodegradable,recyclable,weight_grams,material_composition
+1,0,315.7,Food Waste
+0,1,277.1,Metal
+0,1,712.7,Glass
+0,1,211.0,Plastic
+1,1,377.8,Paper
+1,0,450.0,Food Waste
+0,1,650.0,Glass
